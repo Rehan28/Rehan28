@@ -79,7 +79,6 @@
 
 ## 
 
-<p align="center"><b>✨ Always learning. Always building. Always improving. ✨</b></p>
 <p align="center">If you like my work, feel free to ⭐ my repositories — it motivates me a lot!</p>
 
 <!-- Crafted for clarity, professionalism & clean design -->
